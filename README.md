@@ -28,13 +28,9 @@ To provide business insights into product performance, regional sales trends, cu
 # HR Analytics Dashboard
 This interactive Power BI dashboard analyzes employee attrition trends and patterns across multiple dimensions. It includes:
 
-*KPIs:*
+*KPIs:* Total Employees, Attrition Count, Attrition Rate, Average Age, Average Salary, Average Years at Company
 
-Total Employees, Attrition Count, Attrition Rate, Average Age, Average Salary, Average Years at Company
-
-*Filters:*
-
-Department (Human Resources, Research & Development, Sales)
+*Filters:* Department (Human Resources, Research & Development, Sales)
 
 *Charts:*
 
